@@ -1,0 +1,26 @@
+body {
+    background-color: slateblue;
+    width: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+#button {
+    background-color: yellowgreen;
+    border-radius: 8px;
+}
+
+#message {
+    font-weight: bold;
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 1rem;
+}
+
